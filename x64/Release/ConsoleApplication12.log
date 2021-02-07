@@ -1,0 +1,13 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\Alexandr\source\repos\ConsoleApplication12\src\Timer.h(34,12): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Alexandr\source\repos\ConsoleApplication12\src\ConsoleApplication12.cpp(67,7): warning C4244: =: преобразование "uint64_t" в "float", возможна потеря данных
+  Создание кода
+  0 of 236 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication12.vcxproj -> C:\Users\Alexandr\source\repos\ConsoleApplication12\x64\Release\ConsoleApplication12.exe

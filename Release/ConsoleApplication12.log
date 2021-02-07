@@ -1,0 +1,12 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\Alexandr\source\repos\ConsoleApplication12\Timer.h(34,12): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Alexandr\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(67,7): warning C4244: =: преобразование "uint64_t" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 237 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication12.vcxproj -> C:\Users\Alexandr\source\repos\ConsoleApplication12\Release\ConsoleApplication12.exe
